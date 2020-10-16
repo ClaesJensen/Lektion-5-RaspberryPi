@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Lektion 5 RaspberryPi", "Lektion 5 RaspberryPi\Lektion 5 RaspberryPi.vcxproj", "{73AE2BED-92CC-4219-BD1F-7F603ED35A72}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "RaspberryPi Console Application1", "RaspberryPi Console Application1\RaspberryPi Console Application1.vcxproj", "{517C456E-7FD2-4015-8350-24850A0DE7AC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{73AE2BED-92CC-4219-BD1F-7F603ED35A72}.Debug|x64.ActiveCfg = Debug|x64
+		{73AE2BED-92CC-4219-BD1F-7F603ED35A72}.Debug|x64.Build.0 = Debug|x64
+		{73AE2BED-92CC-4219-BD1F-7F603ED35A72}.Debug|x86.ActiveCfg = Debug|Win32
+		{73AE2BED-92CC-4219-BD1F-7F603ED35A72}.Debug|x86.Build.0 = Debug|Win32
+		{73AE2BED-92CC-4219-BD1F-7F603ED35A72}.Release|x64.ActiveCfg = Release|x64
+		{73AE2BED-92CC-4219-BD1F-7F603ED35A72}.Release|x64.Build.0 = Release|x64
+		{73AE2BED-92CC-4219-BD1F-7F603ED35A72}.Release|x86.ActiveCfg = Release|Win32
+		{73AE2BED-92CC-4219-BD1F-7F603ED35A72}.Release|x86.Build.0 = Release|Win32
+		{517C456E-7FD2-4015-8350-24850A0DE7AC}.Debug|x64.ActiveCfg = Debug|x64
+		{517C456E-7FD2-4015-8350-24850A0DE7AC}.Debug|x64.Build.0 = Debug|x64
+		{517C456E-7FD2-4015-8350-24850A0DE7AC}.Debug|x86.ActiveCfg = Debug|Win32
+		{517C456E-7FD2-4015-8350-24850A0DE7AC}.Debug|x86.Build.0 = Debug|Win32
+		{517C456E-7FD2-4015-8350-24850A0DE7AC}.Release|x64.ActiveCfg = Release|x64
+		{517C456E-7FD2-4015-8350-24850A0DE7AC}.Release|x64.Build.0 = Release|x64
+		{517C456E-7FD2-4015-8350-24850A0DE7AC}.Release|x86.ActiveCfg = Release|Win32
+		{517C456E-7FD2-4015-8350-24850A0DE7AC}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4B57A82F-0887-4513-BF16-174434D6D768}
+	EndGlobalSection
+EndGlobal
